@@ -1,7 +1,7 @@
 # 💧 Datathon SUNASS 2026 - Reto Operacional: Solución Analítica y Optimización de Redes de Agua (Región Lima)
 
-**Autor:** Álvaro Fabricio Villanueva Kobayashi
-**Rol:** Senior Data Scientist & Especialista en Business Intelligence
+Álvaro Fabricio Villanueva Kobayashi
+
 
 ## 📌 Sobre Mí y el Enfoque del Proyecto
 
